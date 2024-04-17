@@ -1,6 +1,3 @@
-# Sentient-Analysis
-Sentient Analysis for input data from articles with links stored in an excel file and output data to another excel file with the necessary columns.
-
 # Sentiment Analysis and Text Metrics Extraction
 
 This repository contains a Python script for performing sentiment analysis and extracting text metrics from a set of URLs using Python's `newspaper`, `pandas`, and `numpy` libraries.
